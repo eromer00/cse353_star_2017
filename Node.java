@@ -14,6 +14,8 @@ import java.util.List;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
+//test
+
 public class Node implements Runnable{
 
 	private int node_number = 0;
